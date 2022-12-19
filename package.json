@@ -1,7 +1,7 @@
 {
 	"name": "obsidian-sample-plugin",
-	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"version": "0.0.1",
+	"description": "Plugin that makes it possible to give multiple definitions for single concept and switch between them easily",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
